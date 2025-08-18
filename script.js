@@ -6,11 +6,11 @@ const textoResultado = document.querySelector(".texto-resultado");
 
 const perguntas = [
 {
-    enunciado: "Pergunta 1",
-    Alternativas: [
-        "Alternativa 1",
-        "Alternativa 2"
-    ]
+        enunciado: " Qual é o principal impacto da IA no processamento de grandes volumes de dados, como interações de clientes e registros de chamadas?",
+        alternativas: [
+            "Permite análise rápida e identificação de padrões complexos.",
+            "Exige mais tempo para organizar e interpretar manualmente."
+        ]
 },
 
 {
